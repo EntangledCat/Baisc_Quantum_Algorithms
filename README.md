@@ -1,2 +1,2 @@
-# Basic_Quantum_Algorithms
-Some Important Quantum Algorithms to begin with in Qsikit
+# Basic Quantum Algorithms
+Some important quantum algorithms to begin with in qiskit.
